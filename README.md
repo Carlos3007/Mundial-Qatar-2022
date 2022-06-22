@@ -1,2 +1,2 @@
 # Panama-Tecnologico
-Pagina creada con información del mundial de Qatar 2022
+Subo paginas web elaboradas por mi
